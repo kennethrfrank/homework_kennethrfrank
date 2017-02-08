@@ -1,0 +1,102 @@
+.container-full{
+	
+}
+
+.header{
+	border: 1px solid black;
+	height: 45px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.navigation{
+	border: 1px solid black;
+	height: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.advertisement{
+	border: 1px solid black;
+	height: 250px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.recommended{
+	border: 1px solid black;
+	height: 450px;
+		
+}
+
+.ron{
+	
+	height: 189px;
+	text-align: center;
+}
+
+.RecT{
+	font-weight: bold;
+	text-indent: 12px;
+	font-size: 12px;
+	height: 20px;
+}
+
+.userinfo{
+	border: 1px solid black;
+
+}
+
+.vid{
+	border: 1px solid black;
+	height: 100px;
+	background: grey;
+}
+
+
+.vidTitle{
+	border: 1px solid black;
+	height: 25px;
+	color: blue;
+	text-align: left;
+
+}
+
+.vidUser{
+	border: 1px solid black;
+	height: 20px;
+	font-style: italic;
+	text-align: left;
+	color: gray;
+}
+
+.vidStats{
+	border: 1px solid black;
+	height: 21px;
+	font-style: italic;
+	text-align: left;
+	color: gray;
+
+}
+
+.img{
+	background: grey;
+}
+
+.x{
+	background: grey;
+}
+
+.searchbutton{
+	background: grey;
+}
+
+.logo{
+	background: grey;
+}
+
+.search{
+	text-align: left;
+}
+
+
