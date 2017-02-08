@@ -1,0 +1,79 @@
+body {
+    font-family: Arial;
+}
+code {
+	font-size: 30px;
+}
+.strong {
+	font-weight: bold;
+	text-align: center;
+	border: 2px solid black;
+	padding: 5px;
+	
+}
+
+#notification {
+	background-color: #013ea0;
+	color: white;
+	padding: 8px;
+}
+
+.message {
+	background-color: green;
+	border: 3px solid grey;
+	color: white;
+	padding: 8px;
+	border-radius: 8px;
+	margin-bottom: 10px;
+}
+
+.success {
+	color: red;
+}
+
+.warning {
+	
+	color: black;
+}
+
+.alert {
+	color: green;
+}
+
+.green{
+background-color: #248715;
+}
+
+.yellow{
+background-color: #edf427;
+}
+
+.red{
+	background-color: #ad3c3c;
+}
+
+.last{
+	color: red;
+	font-size: 50px;
+	text-align: center;
+}
+
+.big{
+	border: 3px solid black;
+	padding: 10px;
+}
+
+#intro{
+	text-align: center;
+}
+
+h3{
+	font-size: 30px;
+}
+
+
+
+
+
+
+

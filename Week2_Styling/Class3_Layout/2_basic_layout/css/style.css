@@ -1,0 +1,61 @@
+body {
+    font-family: Arial;
+    background: black;
+    color: white;
+}
+header, footer, #container {
+	background-color: #CCC;
+	color: black;
+	border: 2px solid white;
+	border-radius: 8px;
+	padding: 10px;
+	margin: 5px;
+}
+nav, .box {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    float: left;
+
+}
+h2{
+	border: 1px solid red;
+	display: inline;
+	float:left;
+	margin: 0;
+	padding: 10px;
+}
+.clearFloat {
+	clear: both;
+}
+
+nav{ 
+float: right;
+width: 800px; 
+}
+
+.box{
+	width: 45%;
+	height: 300px;
+	margin: 10px;
+	text-align: center;
+	
+}
+
+#box3{
+	float: top;
+	border: 1px solid black;
+	padding: 10%;
+	text-align: center;
+	border-radius: 8px;
+	margin: 2px;
+}
+
+#box2{
+	padding: .6%;
+
+}
+
+
+

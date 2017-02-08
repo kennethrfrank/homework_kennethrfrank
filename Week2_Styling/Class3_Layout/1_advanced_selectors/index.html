@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Error Message</title>
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+</head>
+
+<body>
+
+    <h1 class = "strong">Advanced Classes and IDs</h1>
+<div class = "big">
+    <div id="notification">
+      This has an <code class = "strong">id="notification"</code>, so it is styled in CSS with <code>#notification</code>. Check it out.
+    </div>
+
+    <p id = "intro">What if we have many messages on the page which are meant to look similar?</p>
+</div>
+
+<div class = "big">
+    <div class="message success">
+        This is a div with a class of <code class = "strong">message</code>, so it can be styled in CSS with <code class = "strong">.message</code>.
+    </div>
+
+    <div class="message warning yellow">
+        This is another div with a class of <code class = "strong">message</code>, so it gets styled too.
+    </div>
+
+    <div class="message alert red">
+        A third element with a class of <code class = "strong">message</code>, for good measure. One CSS selector styles all of these.
+    </div>
+</div>    
+<div class ="big">
+<h3 class = "strong">IDs are singular, Classes are plural</h3>
+<p>An ID is meant to be used only once in a given HTML document. A given element can have only one ID.</p>
+<p>A class can be reused as many times as needed in a given HTML document. A given element can have multiple classes.</p>
+
+<h3 class = "strong">Using Multiple Classes</h3>
+<p>An element can be given multiple classes, separated by spaces, such as <code>class="message success"</code>.</p>
+<div>
+  This has <code>class="message error"</code>, meaning it has two classes: <code>message</code> and <code>error</code>. It will get styles from <code>.message</code> and <code>.error</code>. The styles for <code>.error</code> override the default styles, which we achieve by placing them after the styles for <code>.message</code>.
+</div>
+</div>
+<div class = "last">
+HELLO
+</div>
+</body>
+
+</html>

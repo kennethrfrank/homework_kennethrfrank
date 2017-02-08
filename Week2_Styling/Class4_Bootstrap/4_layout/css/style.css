@@ -1,0 +1,46 @@
+#logo {
+    font-size: 48px;
+    margin-top: 89px;
+    padding-top: 109px;
+    height: 233px;
+    text-align: center;
+}
+
+#search {
+    height: 65px;
+    text-align: center;
+}
+
+.row{
+	
+
+}
+
+.search{
+	text-align: center;
+	height: 50px;
+	font-size: 25px;
+}
+
+.logo{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	height: 100px;
+	margin-top: 200px;
+}
+
+.button{
+	font-weight: bold;
+	
+}
+
+.buttonleft{
+	
+	
+}
+.buttonright{
+	
+	
+	
+}
