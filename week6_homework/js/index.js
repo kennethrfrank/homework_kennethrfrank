@@ -26,7 +26,7 @@ $(function(){
     var arrProducts = ['apple', 'oranges', 'bananas', 'kiwis', 'berries', 'melons', 'pineapples'];
     var arrPrices = ['1.25', '2.15', '.75', '1.50', '1.00','3.00', '2.80'];
     var arrDescription = ['gala', 'pygmy','ripe','skinned','brainfood', 'medley','Real Estate' ];
-    var arrCount=[' ',' ',' '];
+    var arrCount=[0,0,0,0,0,0,0];
 
 
     for(var i = 0; i<arrProducts.length; i = i+1){
@@ -89,6 +89,13 @@ $(function(){
 
 
 });
+
+function counter(arrCount, index){
+    sum = arrCount[index];
+    sum = sum + 1;
+    return sum;
+
+}
 
 function currencyFormat(number){ 
     currency = "$" + number.toFixed(2);
