@@ -1,0 +1,211 @@
+button{
+	align-content:center;
+	border-radius : 1px;
+}
+
+
+
+body{
+	
+	background: #A17190;
+	color: white;
+}
+
+img.second{
+	margin-top: 30px;
+	width: 90%;
+	height: 400px;
+	background: #220000;
+
+}
+
+img.first{
+	margin-top: 20px;
+	height: 370px;
+	width : 90%;
+	text-align: center;
+	background: #220000;
+}
+
+
+/*GEN STYLES*/
+	.border{
+
+	border: solid #fff4fe 4px;
+	
+	}
+
+
+/*LARGE MAIN CONTAINERS 
+|||||||||||||||||||
+HEADER BEGINNING */
+
+.heads{
+		background:  url('../imgs/notebook.png') top  no-repeat /*#edf0f4*/#220000;
+		}
+	/* navigation */
+	#nav{
+
+		height :100px;
+		background:#250000/* #edf0f4#310000*/;
+		display: none;
+	
+		width: 100%;
+
+		}
+
+
+		/* SITE LINKS */
+		.siteNav{
+
+			
+				}
+				.navi {
+					background:  url('../imgs/notebook.png') top center no-repeat /*#edf0f4*/#220000;
+
+				}
+				#navi{
+					margin-top: 10px;
+							margin-left: 8px;
+				background: #220000;
+				border: none;
+			
+				}
+				#icon{
+					background: #220000;
+
+				}
+					img.i{
+
+
+							background: #220000;	
+							height: 70px;
+							width: 90px;
+					}
+
+		/* SOCIAL LINKS */
+
+		.socialNav{
+			margin-top: 15px;
+	
+			}
+			img.icon2{
+							height: 83px;
+							width: 90px;
+					}
+
+	/* logo */
+
+	#logoContainer{
+		
+		text-align:center;
+		height: 1000px;
+			}
+
+		#logoIMG{
+
+			height: 700px; width: 829px;
+		}
+
+
+
+
+
+/* BOX:FRONT PAGE MAIN CONTENT */
+	#box{
+
+		background:/*#180000*/#220000;
+		display: none;
+
+
+		}
+		/*columns*/
+		.lwp{
+
+		width: 100%;
+		background: /*#edf0f4*/#250000;
+		color: white;
+		border: none;
+		text-align:center;
+		}
+
+		.titles{
+
+		}
+
+
+/* PAGE 2*/
+
+#meat{
+		background: #A17190; 
+		display:none;
+		}	
+
+		#titleBar{
+			color:#220000  ;
+			padding:20px;
+			background-color: #A17190;
+			/*background: /*#edf0f4#310000*/
+			text-align:center;
+			font-size:50px;
+			height: 110px;
+			border: 1px solid black;
+			}
+		/*content container */
+		.cntnt{
+			color: #220000;
+
+			}
+
+			.headlines{
+			
+			font-size: 50px;
+			font-weight: bold;
+			font-style: italic;
+			}
+
+			.articleContainer{
+
+			text-align: center;
+			color: black;
+			background: #A17190;
+			width: 100%;
+			height: 600px;
+			}
+
+			#info{
+				margin-top: 20px;
+				text-indent: 80px;
+				text-align: center;
+				font-size: 30px;
+			}
+
+		#sideBar{
+			}
+			/*button*/
+			.but{
+			color: #A17190 ;
+			font-weight: bold;
+			font-size: 40px;
+			height: 80px;
+			width: 100%;
+			border: 4px solid;
+				border-radius : 1px;
+			background: #220000;
+			}
+
+
+	
+
+	
+	
+
+	
+
+	
+
+
+
+
+
+
